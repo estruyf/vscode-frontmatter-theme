@@ -10,6 +10,7 @@
 - Vulcan: `#0e131f`
 - Blue: `#1281E2`
 - Red: `#E94444`
+- Green: #4ac26b
 
 ```css
 .mtk1 { color: #0e131f; } // updated
