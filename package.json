@@ -2,7 +2,7 @@
   "name": "vscode-frontmatter-theme",
   "displayName": "Front Matter CMS - Theme",
   "description": "A theme intended for the screenshots of Front Matter CMS, based on the GitHub Light theme.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "icon": "assets/fm-theme-128x128.png",
   "preview": true,
   "publisher": "eliostruyf",
