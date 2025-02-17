@@ -101,6 +101,15 @@
     "statusBarItem.hoverBackground": "#0e131f14",
     "statusBarItem.activeBackground": "#0e131f1f",
     "statusBarItem.focusBorder": "#1281E2",
+    "statusBarItem.warningBackground": "#f9c513",
+    "statusBarItem.warningForeground": "#0e131f",
+    "statusBarItem.warningHoverBackground": "#EFB806",
+    "statusBarItem.warningHoverForeground": "#0e131f",
+    "statusBarItem.errorBackground": "#E94444",
+    "statusBarItem.errorForeground": "#ffffff",
+    "statusBarItem.errorHoverBackground": "#E94444",
+    "statusBarItem.errorHoverForeground": "#ffffff",
+
     
     "editorGroupHeader.tabsBackground": "#f6f8fa",
     "editorGroupHeader.tabsBorder": "#d0d7de",
