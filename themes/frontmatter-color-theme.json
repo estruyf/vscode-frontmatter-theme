@@ -357,7 +357,7 @@
         "string punctuation.section.embedded source"
       ],
       "settings": {
-        "foreground": "#181d29"
+        "foreground": "#0E61AA"
       }
     },
     {
@@ -439,7 +439,7 @@
         "string.regexp"
       ],
       "settings": {
-        "foreground": "#181d29"
+        "foreground": "#0E61AA"
       }
     },
     {
@@ -450,7 +450,7 @@
         "string.regexp string.regexp.arbitrary-repitition"
       ],
       "settings": {
-        "foreground": "#181d29"
+        "foreground": "#0E61AA"
       }
     },
     {
@@ -629,7 +629,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#181d29",
+        "foreground": "#0E61AA",
         "fontStyle": "underline"
       }
     }
